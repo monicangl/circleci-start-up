@@ -1,0 +1,22 @@
+{
+  "name": "circleci-start-up",
+  "version": "1.0.0",
+  "description": "circle ci start up",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monicangl/circleci-start-up.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/monicangl/circleci-start-up/issues"
+  },
+  "homepage": "https://github.com/monicangl/circleci-start-up#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
